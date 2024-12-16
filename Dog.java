@@ -5,6 +5,22 @@ public class Dog
   private String name;
   private String color;
 
+public Dog();
+{
+  breed = "maltice"
+  name = "yo momma"
+  color ="blue"
+  weight = "14"
+}
+
+public Dog() //the code is now right previous without any info because we made it right
+{
+  breed = "weiner dog";
+  name = "schnitzel";
+  color = "red";
+  weight = 1000;
+}
+
 public Dog(String iBreed, String iname, String icolor, double iweight)
 
   // Make setters
