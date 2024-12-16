@@ -17,7 +17,7 @@ public class Main
     Dog myDog = new Dog();
 
     Dog dog1 = new Dog(); //if dont make a constructor means its right and didnt write the code yet 
+    Dog dog2 = new Dog("yomomma", "got", "my",5);                                                        
 
-    Dog dog2 = new Dog(5, "terrier", "max", "white"); //wrong because of the values are placed differently and didnt write code yet
   }
 }
